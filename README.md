@@ -22,15 +22,8 @@ I'm a passionate developer specializing in AI agents, algorithmic trading system
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Blockchain & Web3
 ![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
@@ -56,62 +49,6 @@ I'm a passionate developer specializing in AI agents, algorithmic trading system
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x3Matt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3Matt&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x3Matt&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Eliza Guide](https://github-readme-stats.vercel.app/api/pin/?username=0x3Matt&repo=eliza-guide&theme=tokyonight)](https://github.com/0x3Matt/eliza-guide)
-[![Typeright Keyboard Test](https://github-readme-stats.vercel.app/api/pin/?username=0x3Matt&repo=typeright-keyboard-test&theme=tokyonight)](https://github.com/0x3Matt/typeright-keyboard-test)
-
-</div>
-
-### 🤖 [Eliza OS Framework Guide](https://github.com/0x3Matt/eliza-guide)
-Comprehensive developer documentation for the Eliza OS Framework - a powerful system for creating intelligent AI agents.
-
-**Key Features:**
-- 📚 Complete AI agent framework documentation
-- 🏗️ Multi-agent system architecture
-- 🔌 Plugin development for AI capabilities
-- 🛠️ Integration patterns and automation workflows
-
-### 🚀 [Typeright Keyboard Test](https://github.com/0x3Matt/typeright-keyboard-test)
-A modern typing speed test with real-time analytics and accuracy tracking.
-
-**Key Features:**
-- 🎯 Pure accuracy testing without browser interference
-- ⚡ Real-time WPM and performance metrics
-- 🎨 Beautiful interactive UI
-- 📊 Advanced analytics and progress tracking
-
-### 🔐 [0xScribe - Discord NFT Logger](https://github.com/dev-matthew/metabolism2022)
-A Discord bot that mints chat messages as NFTs on Polygon blockchain for immutable verification.
-
-**Key Features:**
-- 💬 Automated Discord message processing
-- 🔗 Polygon blockchain integration
-- 🖼️ NFT minting and metadata generation
-- 📝 Immutable message verification system
-
-### 📱 [StudyShare iOS App](https://github.com/publicgitforcosc/matt)
-Swift-based iOS application for educational content sharing and collaboration.
-
-**Key Features:**
-- 📚 Educational resource management
-- 📱 Native iOS development with SwiftUI
-- 🔄 CI/CD with GitHub Actions
-- 🧪 Comprehensive testing framework
-
 ## 🌟 Current Focus
 
 - 🤖 **AI Agent Development** - Building autonomous intelligent agents
@@ -120,13 +57,7 @@ Swift-based iOS application for educational content sharing and collaboration.
 - 🥽 **Virtual Reality** - Exploring immersive VR experiences and applications
 - 🔗 **Web3 Integration** - Bridging traditional apps with blockchain technology
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x3Matt&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
-## �� Achievements & Interests
+## 🏆 Achievements & Interests
 
 - 🤖 **AI Framework Contributor** - Comprehensive Eliza OS documentation and guides
 - 📈 **Trading Algorithm Developer** - Building automated trading systems
@@ -154,7 +85,7 @@ I believe in creating technology that enhances human capabilities and opens new 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0x3Matt&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
-  **Thanks for visiting! ��**
+  **Thanks for visiting! 🚀**
   
   *Feel free to explore my repositories and reach out for collaborations!*
 </div>
